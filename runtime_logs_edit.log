@@ -1,0 +1,1211 @@
+/opt/qutip/qutip/__init__.py:24: UserWarning: matplotlib not found: Graphics will not work.
+  warnings.warn("matplotlib not found: Graphics will not work.")
+/opt/qutip/qutip/solver/solver_base.py:598: FutureWarning: e_ops will be keyword only from qutip 5.3 for all solver
+  warnings.warn(
+
+[Cython search_include_directories]
+  qualified_name : qutip.core.cy.math.str codeString
+  suffix         : .pxd
+  search dirs:
+   - .
+   - /root/.qutip/qutip_coeffs_1.3
+   - /work
+   - /opt/conda/lib/python313.zip
+   - /opt/conda/lib/python3.13
+   - /opt/conda/lib/python3.13/lib-dynload
+   - /opt/conda/lib/python3.13/site-packages
+   - __editable__.qutip-5.3.0.dev0+8799939.finder.__path_hook__
+   - /opt/conda/lib/python3.13/site-packages/setuptools/_vendor
+   - /opt/conda/lib/python3.13/site-packages/Cython/Includes
+  -> result: None
+
+[Cython search_include_directories]
+  qualified_name : qutip.core.cy.math.str codeString
+  suffix         : .pxd
+  search dirs:
+   - .
+   - /root/.qutip/qutip_coeffs_1.3
+   - /work
+   - /opt/conda/lib/python313.zip
+   - /opt/conda/lib/python3.13
+   - /opt/conda/lib/python3.13/lib-dynload
+   - /opt/conda/lib/python3.13/site-packages
+   - __editable__.qutip-5.3.0.dev0+8799939.finder.__path_hook__
+   - /opt/conda/lib/python3.13/site-packages/setuptools/_vendor
+   - /opt/conda/lib/python3.13/site-packages/Cython/Includes
+  -> result: None
+
+[Cython search_include_directories]
+  qualified_name : qutip.core.data.str codeString
+  suffix         : .pxd
+  search dirs:
+   - .
+   - /root/.qutip/qutip_coeffs_1.3
+   - /work
+   - /opt/conda/lib/python313.zip
+   - /opt/conda/lib/python3.13
+   - /opt/conda/lib/python3.13/lib-dynload
+   - /opt/conda/lib/python3.13/site-packages
+   - __editable__.qutip-5.3.0.dev0+8799939.finder.__path_hook__
+   - /opt/conda/lib/python3.13/site-packages/setuptools/_vendor
+   - /opt/conda/lib/python3.13/site-packages/Cython/Includes
+  -> result: None
+
+[Cython search_include_directories]
+  qualified_name : qutip.core.data.str codeString
+  suffix         : .pxd
+  search dirs:
+   - .
+   - /root/.qutip/qutip_coeffs_1.3
+   - /work
+   - /opt/conda/lib/python313.zip
+   - /opt/conda/lib/python3.13
+   - /opt/conda/lib/python3.13/lib-dynload
+   - /opt/conda/lib/python3.13/site-packages
+   - __editable__.qutip-5.3.0.dev0+8799939.finder.__path_hook__
+   - /opt/conda/lib/python3.13/site-packages/setuptools/_vendor
+   - /opt/conda/lib/python3.13/site-packages/Cython/Includes
+  -> result: None
+
+[Cython search_include_directories]
+  qualified_name : qutip.core.cy.coefficient.str codeString
+  suffix         : .pxd
+  search dirs:
+   - .
+   - /root/.qutip/qutip_coeffs_1.3
+   - /work
+   - /opt/conda/lib/python313.zip
+   - /opt/conda/lib/python3.13
+   - /opt/conda/lib/python3.13/lib-dynload
+   - /opt/conda/lib/python3.13/site-packages
+   - __editable__.qutip-5.3.0.dev0+8799939.finder.__path_hook__
+   - /opt/conda/lib/python3.13/site-packages/setuptools/_vendor
+   - /opt/conda/lib/python3.13/site-packages/Cython/Includes
+  -> result: None
+
+[Cython search_include_directories]
+  qualified_name : qutip.core.cy.coefficient.str codeString
+  suffix         : .pxd
+  search dirs:
+   - .
+   - /root/.qutip/qutip_coeffs_1.3
+   - /work
+   - /opt/conda/lib/python313.zip
+   - /opt/conda/lib/python3.13
+   - /opt/conda/lib/python3.13/lib-dynload
+   - /opt/conda/lib/python3.13/site-packages
+   - __editable__.qutip-5.3.0.dev0+8799939.finder.__path_hook__
+   - /opt/conda/lib/python3.13/site-packages/setuptools/_vendor
+   - /opt/conda/lib/python3.13/site-packages/Cython/Includes
+  -> result: None
+
+[Cython search_include_directories]
+  qualified_name : qutip.core.cy.math
+  suffix         : .pxd
+  search dirs:
+   - .
+   - /root/.qutip/qutip_coeffs_1.3
+   - /work
+   - /opt/conda/lib/python313.zip
+   - /opt/conda/lib/python3.13
+   - /opt/conda/lib/python3.13/lib-dynload
+   - /opt/conda/lib/python3.13/site-packages
+   - __editable__.qutip-5.3.0.dev0+8799939.finder.__path_hook__
+   - /opt/conda/lib/python3.13/site-packages/setuptools/_vendor
+   - /opt/conda/lib/python3.13/site-packages/Cython/Includes
+  -> result: None
+
+[Cython search_include_directories]
+  qualified_name : qutip.core.cy.math
+  suffix         : .pxd
+  search dirs:
+   - .
+   - /root/.qutip/qutip_coeffs_1.3
+   - /work
+   - /opt/conda/lib/python313.zip
+   - /opt/conda/lib/python3.13
+   - /opt/conda/lib/python3.13/lib-dynload
+   - /opt/conda/lib/python3.13/site-packages
+   - __editable__.qutip-5.3.0.dev0+8799939.finder.__path_hook__
+   - /opt/conda/lib/python3.13/site-packages/setuptools/_vendor
+   - /opt/conda/lib/python3.13/site-packages/Cython/Includes
+  -> result: None
+
+[Cython search_include_directories]
+  qualified_name : qutip.core.data
+  suffix         : .pxd
+  search dirs:
+   - .
+   - /root/.qutip/qutip_coeffs_1.3
+   - /work
+   - /opt/conda/lib/python313.zip
+   - /opt/conda/lib/python3.13
+   - /opt/conda/lib/python3.13/lib-dynload
+   - /opt/conda/lib/python3.13/site-packages
+   - __editable__.qutip-5.3.0.dev0+8799939.finder.__path_hook__
+   - /opt/conda/lib/python3.13/site-packages/setuptools/_vendor
+   - /opt/conda/lib/python3.13/site-packages/Cython/Includes
+  -> result: None
+
+[Cython search_include_directories]
+  qualified_name : qutip.core.data
+  suffix         : .pxd
+  search dirs:
+   - .
+   - /root/.qutip/qutip_coeffs_1.3
+   - /work
+   - /opt/conda/lib/python313.zip
+   - /opt/conda/lib/python3.13
+   - /opt/conda/lib/python3.13/lib-dynload
+   - /opt/conda/lib/python3.13/site-packages
+   - __editable__.qutip-5.3.0.dev0+8799939.finder.__path_hook__
+   - /opt/conda/lib/python3.13/site-packages/setuptools/_vendor
+   - /opt/conda/lib/python3.13/site-packages/Cython/Includes
+  -> result: None
+
+[Cython search_include_directories]
+  qualified_name : scipy.special.str codeString
+  suffix         : .pxd
+  search dirs:
+   - .
+   - /root/.qutip/qutip_coeffs_1.3
+   - /work
+   - /opt/conda/lib/python313.zip
+   - /opt/conda/lib/python3.13
+   - /opt/conda/lib/python3.13/lib-dynload
+   - /opt/conda/lib/python3.13/site-packages
+   - __editable__.qutip-5.3.0.dev0+8799939.finder.__path_hook__
+   - /opt/conda/lib/python3.13/site-packages/setuptools/_vendor
+   - /opt/conda/lib/python3.13/site-packages/Cython/Includes
+  -> result: None
+
+[Cython search_include_directories]
+  qualified_name : scipy.special.str codeString
+  suffix         : .pxd
+  search dirs:
+   - .
+   - /root/.qutip/qutip_coeffs_1.3
+   - /work
+   - /opt/conda/lib/python313.zip
+   - /opt/conda/lib/python3.13
+   - /opt/conda/lib/python3.13/lib-dynload
+   - /opt/conda/lib/python3.13/site-packages
+   - __editable__.qutip-5.3.0.dev0+8799939.finder.__path_hook__
+   - /opt/conda/lib/python3.13/site-packages/setuptools/_vendor
+   - /opt/conda/lib/python3.13/site-packages/Cython/Includes
+  -> result: None
+
+[Cython search_include_directories]
+  qualified_name : qutip.core.cy.coefficient
+  suffix         : .pxd
+  search dirs:
+   - .
+   - /root/.qutip/qutip_coeffs_1.3
+   - /work
+   - /opt/conda/lib/python313.zip
+   - /opt/conda/lib/python3.13
+   - /opt/conda/lib/python3.13/lib-dynload
+   - /opt/conda/lib/python3.13/site-packages
+   - __editable__.qutip-5.3.0.dev0+8799939.finder.__path_hook__
+   - /opt/conda/lib/python3.13/site-packages/setuptools/_vendor
+   - /opt/conda/lib/python3.13/site-packages/Cython/Includes
+  -> result: None
+
+[Cython search_include_directories]
+  qualified_name : qutip.core.cy.coefficient
+  suffix         : .pxd
+  search dirs:
+   - .
+   - /root/.qutip/qutip_coeffs_1.3
+   - /work
+   - /opt/conda/lib/python313.zip
+   - /opt/conda/lib/python3.13
+   - /opt/conda/lib/python3.13/lib-dynload
+   - /opt/conda/lib/python3.13/site-packages
+   - __editable__.qutip-5.3.0.dev0+8799939.finder.__path_hook__
+   - /opt/conda/lib/python3.13/site-packages/setuptools/_vendor
+   - /opt/conda/lib/python3.13/site-packages/Cython/Includes
+  -> result: None
+
+[Cython search_include_directories]
+  qualified_name : scipy.special
+  suffix         : .pxd
+  search dirs:
+   - .
+   - /root/.qutip/qutip_coeffs_1.3
+   - /work
+   - /opt/conda/lib/python313.zip
+   - /opt/conda/lib/python3.13
+   - /opt/conda/lib/python3.13/lib-dynload
+   - /opt/conda/lib/python3.13/site-packages
+   - __editable__.qutip-5.3.0.dev0+8799939.finder.__path_hook__
+   - /opt/conda/lib/python3.13/site-packages/setuptools/_vendor
+   - /opt/conda/lib/python3.13/site-packages/Cython/Includes
+  -> result: /opt/conda/lib/python3.13/site-packages/scipy/special/__init__.pxd
+
+[Cython search_include_directories]
+  qualified_name : qutip.core.cy.complex_math.str codeString
+  suffix         : .pxd
+  search dirs:
+   - .
+   - /root/.qutip/qutip_coeffs_1.3
+   - /work
+   - /opt/conda/lib/python313.zip
+   - /opt/conda/lib/python3.13
+   - /opt/conda/lib/python3.13/lib-dynload
+   - /opt/conda/lib/python3.13/site-packages
+   - __editable__.qutip-5.3.0.dev0+8799939.finder.__path_hook__
+   - /opt/conda/lib/python3.13/site-packages/setuptools/_vendor
+   - /opt/conda/lib/python3.13/site-packages/Cython/Includes
+  -> result: None
+
+[Cython search_include_directories]
+  qualified_name : qutip.core.cy.complex_math.str codeString
+  suffix         : .pxd
+  search dirs:
+   - .
+   - /root/.qutip/qutip_coeffs_1.3
+   - /work
+   - /opt/conda/lib/python313.zip
+   - /opt/conda/lib/python3.13
+   - /opt/conda/lib/python3.13/lib-dynload
+   - /opt/conda/lib/python3.13/site-packages
+   - __editable__.qutip-5.3.0.dev0+8799939.finder.__path_hook__
+   - /opt/conda/lib/python3.13/site-packages/setuptools/_vendor
+   - /opt/conda/lib/python3.13/site-packages/Cython/Includes
+  -> result: None
+
+[Cython search_include_directories]
+  qualified_name : qutip.core.cy.complex_math
+  suffix         : .pxd
+  search dirs:
+   - .
+   - /root/.qutip/qutip_coeffs_1.3
+   - /work
+   - /opt/conda/lib/python313.zip
+   - /opt/conda/lib/python3.13
+   - /opt/conda/lib/python3.13/lib-dynload
+   - /opt/conda/lib/python3.13/site-packages
+   - __editable__.qutip-5.3.0.dev0+8799939.finder.__path_hook__
+   - /opt/conda/lib/python3.13/site-packages/setuptools/_vendor
+   - /opt/conda/lib/python3.13/site-packages/Cython/Includes
+  -> result: None
+
+[Cython search_include_directories]
+  qualified_name : qutip.core.cy.complex_math
+  suffix         : .pxd
+  search dirs:
+   - .
+   - /root/.qutip/qutip_coeffs_1.3
+   - /work
+   - /opt/conda/lib/python313.zip
+   - /opt/conda/lib/python3.13
+   - /opt/conda/lib/python3.13/lib-dynload
+   - /opt/conda/lib/python3.13/site-packages
+   - __editable__.qutip-5.3.0.dev0+8799939.finder.__path_hook__
+   - /opt/conda/lib/python3.13/site-packages/setuptools/_vendor
+   - /opt/conda/lib/python3.13/site-packages/Cython/Includes
+  -> result: None
+
+[Cython search_include_directories]
+  qualified_name : scipy.special.scipy.special
+  suffix         : .pxd
+  search dirs:
+   - .
+   - /root/.qutip/qutip_coeffs_1.3
+   - /work
+   - /opt/conda/lib/python313.zip
+   - /opt/conda/lib/python3.13
+   - /opt/conda/lib/python3.13/lib-dynload
+   - /opt/conda/lib/python3.13/site-packages
+   - __editable__.qutip-5.3.0.dev0+8799939.finder.__path_hook__
+   - /opt/conda/lib/python3.13/site-packages/setuptools/_vendor
+   - /opt/conda/lib/python3.13/site-packages/Cython/Includes
+  -> result: None
+
+[Cython search_include_directories]
+  qualified_name : scipy.special
+  suffix         : .pxd
+  search dirs:
+   - .
+   - /root/.qutip/qutip_coeffs_1.3
+   - /work
+   - /opt/conda/lib/python313.zip
+   - /opt/conda/lib/python3.13
+   - /opt/conda/lib/python3.13/lib-dynload
+   - /opt/conda/lib/python3.13/site-packages
+   - __editable__.qutip-5.3.0.dev0+8799939.finder.__path_hook__
+   - /opt/conda/lib/python3.13/site-packages/setuptools/_vendor
+   - /opt/conda/lib/python3.13/site-packages/Cython/Includes
+  -> result: /opt/conda/lib/python3.13/site-packages/scipy/special/__init__.pxd
+[1/1] Cythonizing qtcoeff_94cec8c8a49e6e5bc60a673a4c5516.pyx
+
+[Cython search_include_directories]
+  qualified_name : qtcoeff_94cec8c8a49e6e5bc60a673a4c5516
+  suffix         : .py
+  search dirs:
+   - .
+   - /root/.qutip/qutip_coeffs_1.3
+   - /work
+   - /opt/conda/lib/python313.zip
+   - /opt/conda/lib/python3.13
+   - /opt/conda/lib/python3.13/lib-dynload
+   - /opt/conda/lib/python3.13/site-packages
+   - __editable__.qutip-5.3.0.dev0+8799939.finder.__path_hook__
+   - /opt/conda/lib/python3.13/site-packages/setuptools/_vendor
+   - /opt/conda/lib/python3.13/site-packages/Cython/Includes
+  -> result: None
+
+[Cython search_include_directories]
+  qualified_name : qtcoeff_94cec8c8a49e6e5bc60a673a4c5516
+  suffix         : .pyx
+  search dirs:
+   - .
+   - /root/.qutip/qutip_coeffs_1.3
+   - /work
+   - /opt/conda/lib/python313.zip
+   - /opt/conda/lib/python3.13
+   - /opt/conda/lib/python3.13/lib-dynload
+   - /opt/conda/lib/python3.13/site-packages
+   - __editable__.qutip-5.3.0.dev0+8799939.finder.__path_hook__
+   - /opt/conda/lib/python3.13/site-packages/setuptools/_vendor
+   - /opt/conda/lib/python3.13/site-packages/Cython/Includes
+  -> result: ./qtcoeff_94cec8c8a49e6e5bc60a673a4c5516.pyx
+
+[Cython search_include_directories]
+  qualified_name : qtcoeff_94cec8c8a49e6e5bc60a673a4c5516
+  suffix         : .pxd
+  search dirs:
+   - .
+   - /opt/conda/lib/python3.13/site-packages/Cython/Includes
+  -> result: None
+
+[Cython search_include_directories]
+  qualified_name : scipy.special
+  suffix         : .py
+  search dirs:
+   - .
+   - /root/.qutip/qutip_coeffs_1.3
+   - /work
+   - /opt/conda/lib/python313.zip
+   - /opt/conda/lib/python3.13
+   - /opt/conda/lib/python3.13/lib-dynload
+   - /opt/conda/lib/python3.13/site-packages
+   - __editable__.qutip-5.3.0.dev0+8799939.finder.__path_hook__
+   - /opt/conda/lib/python3.13/site-packages/setuptools/_vendor
+   - /opt/conda/lib/python3.13/site-packages/Cython/Includes
+  -> result: /opt/conda/lib/python3.13/site-packages/scipy/special/__init__.py
+
+[Cython search_include_directories]
+  qualified_name : scipy.special
+  suffix         : .pxd
+  search dirs:
+   - .
+   - /root/.qutip/qutip_coeffs_1.3
+   - /work
+   - /opt/conda/lib/python313.zip
+   - /opt/conda/lib/python3.13
+   - /opt/conda/lib/python3.13/lib-dynload
+   - /opt/conda/lib/python3.13/site-packages
+   - __editable__.qutip-5.3.0.dev0+8799939.finder.__path_hook__
+   - /opt/conda/lib/python3.13/site-packages/setuptools/_vendor
+   - /opt/conda/lib/python3.13/site-packages/Cython/Includes
+  -> result: /opt/conda/lib/python3.13/site-packages/scipy/special/__init__.pxd
+
+[Cython search_include_directories]
+  qualified_name : scipy.special
+  suffix         : .py
+  search dirs:
+   - .
+   - /root/.qutip/qutip_coeffs_1.3
+   - /work
+   - /opt/conda/lib/python313.zip
+   - /opt/conda/lib/python3.13
+   - /opt/conda/lib/python3.13/lib-dynload
+   - /opt/conda/lib/python3.13/site-packages
+   - __editable__.qutip-5.3.0.dev0+8799939.finder.__path_hook__
+   - /opt/conda/lib/python3.13/site-packages/setuptools/_vendor
+   - /opt/conda/lib/python3.13/site-packages/Cython/Includes
+  -> result: /opt/conda/lib/python3.13/site-packages/scipy/special/__init__.py
+
+[Cython search_include_directories]
+  qualified_name : scipy.special.cython_special
+  suffix         : .pxd
+  search dirs:
+   - .
+   - /root/.qutip/qutip_coeffs_1.3
+   - /work
+   - /opt/conda/lib/python313.zip
+   - /opt/conda/lib/python3.13
+   - /opt/conda/lib/python3.13/lib-dynload
+   - /opt/conda/lib/python3.13/site-packages
+   - __editable__.qutip-5.3.0.dev0+8799939.finder.__path_hook__
+   - /opt/conda/lib/python3.13/site-packages/setuptools/_vendor
+   - /opt/conda/lib/python3.13/site-packages/Cython/Includes
+  -> result: /opt/conda/lib/python3.13/site-packages/scipy/special/cython_special.pxd
+
+[Cython search_include_directories]
+  qualified_name : cython
+  suffix         : .py
+  search dirs:
+   - .
+   - /root/.qutip/qutip_coeffs_1.3
+   - /work
+   - /opt/conda/lib/python313.zip
+   - /opt/conda/lib/python3.13
+   - /opt/conda/lib/python3.13/lib-dynload
+   - /opt/conda/lib/python3.13/site-packages
+   - __editable__.qutip-5.3.0.dev0+8799939.finder.__path_hook__
+   - /opt/conda/lib/python3.13/site-packages/setuptools/_vendor
+   - /opt/conda/lib/python3.13/site-packages/Cython/Includes
+  -> result: /opt/conda/lib/python3.13/site-packages/cython.py
+
+[Cython search_include_directories]
+  qualified_name : qutip.core.cy.coefficient
+  suffix         : .py
+  search dirs:
+   - .
+   - /root/.qutip/qutip_coeffs_1.3
+   - /work
+   - /opt/conda/lib/python313.zip
+   - /opt/conda/lib/python3.13
+   - /opt/conda/lib/python3.13/lib-dynload
+   - /opt/conda/lib/python3.13/site-packages
+   - __editable__.qutip-5.3.0.dev0+8799939.finder.__path_hook__
+   - /opt/conda/lib/python3.13/site-packages/setuptools/_vendor
+   - /opt/conda/lib/python3.13/site-packages/Cython/Includes
+  -> result: None
+
+[Cython search_include_directories]
+  qualified_name : qutip.core.cy.coefficient
+  suffix         : .pyx
+  search dirs:
+   - .
+   - /root/.qutip/qutip_coeffs_1.3
+Error compiling Cython file:
+------------------------------------------------------------
+...
+
+import numpy as np
+import scipy.special as spe
+from scipy.special cimport cython_special
+cimport cython
+from qutip.core.cy.coefficient cimport Coefficient
+^
+------------------------------------------------------------
+qtcoeff_94cec8c8a49e6e5bc60a673a4c5516.pyx:8:0: 'qutip/core/cy/coefficient.pxd' not found
+
+Error compiling Cython file:
+------------------------------------------------------------
+...
+
+import numpy as np
+import scipy.special as spe
+from scipy.special cimport cython_special
+cimport cython
+from qutip.core.cy.coefficient cimport Coefficient
+^
+------------------------------------------------------------
+qtcoeff_94cec8c8a49e6e5bc60a673a4c5516.pyx:8:0: 'qutip/core/cy/coefficient/Coefficient.pxd' not found
+
+Error compiling Cython file:
+------------------------------------------------------------
+...
+import numpy as np
+import scipy.special as spe
+from scipy.special cimport cython_special
+cimport cython
+from qutip.core.cy.coefficient cimport Coefficient
+from qutip.core.cy.math cimport erf, zerf
+^
+------------------------------------------------------------
+qtcoeff_94cec8c8a49e6e5bc60a673a4c5516.pyx:9:0: 'qutip/core/cy/math.pxd' not found
+
+   - /work
+   - /opt/conda/lib/python313.zip
+   - /opt/conda/lib/python3.13
+   - /opt/conda/lib/python3.13/lib-dynload
+   - /opt/conda/lib/python3.13/site-packages
+   - __editable__.qutip-5.3.0.dev0+8799939.finder.__path_hook__
+   - /opt/conda/lib/python3.13/site-packages/setuptools/_vendor
+   - /opt/conda/lib/python3.13/site-packages/Cython/Includes
+  -> result: None
+
+[Cython search_include_directories]
+  qualified_name : qutip.core.cy.coefficient
+  suffix         : .pxd
+  search dirs:
+   - .
+   - /root/.qutip/qutip_coeffs_1.3
+   - /work
+   - /opt/conda/lib/python313.zip
+   - /opt/conda/lib/python3.13
+   - /opt/conda/lib/python3.13/lib-dynload
+   - /opt/conda/lib/python3.13/site-packages
+   - __editable__.qutip-5.3.0.dev0+8799939.finder.__path_hook__
+   - /opt/conda/lib/python3.13/site-packages/setuptools/_vendor
+   - /opt/conda/lib/python3.13/site-packages/Cython/Includes
+  -> result: None
+
+[Cython search_include_directories]
+  qualified_name : qutip.core.cy.coefficient
+  suffix         : .py
+  search dirs:
+   - .
+   - /root/.qutip/qutip_coeffs_1.3
+   - /work
+   - /opt/conda/lib/python313.zip
+   - /opt/conda/lib/python3.13
+   - /opt/conda/lib/python3.13/lib-dynload
+   - /opt/conda/lib/python3.13/site-packages
+   - __editable__.qutip-5.3.0.dev0+8799939.finder.__path_hook__
+   - /opt/conda/lib/python3.13/site-packages/setuptools/_vendor
+   - /opt/conda/lib/python3.13/site-packages/Cython/Includes
+  -> result: None
+
+[Cython search_include_directories]
+  qualified_name : qutip.core.cy.coefficient.Coefficient
+  suffix         : .pxd
+  search dirs:
+   - .
+   - /root/.qutip/qutip_coeffs_1.3
+   - /work
+   - /opt/conda/lib/python313.zip
+   - /opt/conda/lib/python3.13
+   - /opt/conda/lib/python3.13/lib-dynload
+   - /opt/conda/lib/python3.13/site-packages
+   - __editable__.qutip-5.3.0.dev0+8799939.finder.__path_hook__
+   - /opt/conda/lib/python3.13/site-packages/setuptools/_vendor
+   - /opt/conda/lib/python3.13/site-packages/Cython/Includes
+  -> result: None
+
+[Cython search_include_directories]
+  qualified_name : qutip.core.cy.coefficient.Coefficient
+  suffix         : .py
+  search dirs:
+   - .
+   - /root/.qutip/qutip_coeffs_1.3
+   - /work
+   - /opt/conda/lib/python313.zip
+   - /opt/conda/lib/python3.13
+   - /opt/conda/lib/python3.13/lib-dynload
+   - /opt/conda/lib/python3.13/site-packages
+   - __editable__.qutip-5.3.0.dev0+8799939.finder.__path_hook__
+   - /opt/conda/lib/python3.13/site-packages/setuptools/_vendor
+   - /opt/conda/lib/python3.13/site-packages/Cython/Includes
+  -> result: None
+
+[Cython search_include_directories]
+  qualified_name : qutip.core.cy.coefficient.Coefficient
+  suffix         : .pyx
+  search dirs:
+   - .
+   - /root/.qutip/qutip_coeffs_1.3
+   - /work
+   - /opt/conda/lib/python313.zip
+   - /opt/conda/lib/python3.13
+   - /opt/conda/lib/python3.13/lib-dynload
+   - /opt/conda/lib/python3.13/site-packages
+   - __editable__.qutip-5.3.0.dev0+8799939.finder.__path_hook__
+   - /opt/conda/lib/python3.13/site-packages/setuptools/_vendor
+   - /opt/conda/lib/python3.13/site-packages/Cython/Includes
+  -> result: None
+
+[Cython search_include_directories]
+  qualified_name : qutip.core.cy.coefficient.Coefficient
+  suffix         : .pxd
+  search dirs:
+   - .
+   - /root/.qutip/qutip_coeffs_1.3
+   - /work
+   - /opt/conda/lib/python313.zip
+   - /opt/conda/lib/python3.13
+   - /opt/conda/lib/python3.13/lib-dynload
+   - /opt/conda/lib/python3.13/site-packages
+   - __editable__.qutip-5.3.0.dev0+8799939.finder.__path_hook__
+   - /opt/conda/lib/python3.13/site-packages/setuptools/_vendor
+   - /opt/conda/lib/python3.13/site-packages/Cython/Includes
+  -> result: None
+
+[Cython search_include_directories]
+  qualified_name : qutip.core.cy.coefficient.Coefficient
+  suffix         : .py
+  search dirs:
+   - .
+   - /root/.qutip/qutip_coeffs_1.3
+   - /work
+   - /opt/conda/lib/python313.zip
+   - /opt/conda/lib/python3.13
+   - /opt/conda/lib/python3.13/lib-dynload
+   - /opt/conda/lib/python3.13/site-packages
+   - __editable__.qutip-5.3.0.dev0+8799939.finder.__path_hook__
+   - /opt/conda/lib/python3.13/site-packages/setuptools/_vendor
+   - /opt/conda/lib/python3.13/site-packages/Cython/Includes
+  -> result: None
+
+[Cython search_include_directories]
+  qualified_name : qutip.core.cy.math
+  suffix         : .py
+  search dirs:
+   - .
+   - /root/.qutip/qutip_coeffs_1.3
+   - /work
+   - /opt/conda/lib/python313.zip
+   - /opt/conda/lib/python3.13
+   - /opt/conda/lib/python3.13/lib-dynload
+   - /opt/conda/lib/python3.13/site-packages
+   - __editable__.qutip-5.3.0.dev0+8799939.finder.__path_hook__
+   - /opt/conda/lib/python3.13/site-packages/setuptools/_vendor
+   - /opt/conda/lib/python3.13/site-packages/Cython/Includes
+  -> result: None
+
+[Cython search_include_directories]
+  qualified_name : qutip.core.cy.math
+  suffix         : .pyx
+  search dirs:
+   - .
+   - /root/.qutip/qutip_coeffs_1.3
+   - /work
+   - /opt/conda/lib/python313.zip
+   - /opt/conda/lib/python3.13
+   - /opt/conda/lib/python3.13/lib-dynload
+   - /opt/conda/lib/python3.13/site-packages
+   - __editable__.qutip-5.3.0.dev0+8799939.finder.__path_hook__
+   - /opt/conda/lib/python3.13/site-packages/setuptools/_vendor
+   - /opt/conda/lib/python3.13/site-packages/Cython/Includes
+  -> result: None
+
+[Cython search_include_directories]
+  qualified_name : qutip.core.cy.math
+  suffix         : .pxd
+  search dirs:
+   - .
+   - /root/.qutip/qutip_coeffs_1.3
+   - /work
+   - /opt/conda/lib/python313.zip
+   - /opt/conda/lib/python3.13
+   - /opt/conda/lib/python3.13/lib-dynload
+   - /opt/conda/lib/python3.13/site-packages
+   - __editable__.qutip-5.3.0.dev0+8799939.finder.__path_hook__
+   - /opt/conda/lib/python3.13/site-packages/setuptools/_vendor
+   - /opt/conda/lib/python3.13/site-packages/Cython/Includes
+  -> result: None
+
+[Cython search_include_directories]
+  qualified_name : qutip.core.cy.math
+  suffix         : .py
+  search dirs:
+   - .
+   - /root/.qutip/qutip_coeffs_1.3
+   - /work
+   - /opt/conda/lib/python313.zip
+   - /opt/conda/lib/python3.13
+   - /opt/conda/lib/python3.13/lib-dynload
+   - /opt/conda/lib/python3.13/site-packages
+   - __editable__.qutip-5.3.0.dev0+8799939.finder.__path_hook__
+   - /opt/conda/lib/python3.13/site-packages/setuptools/_vendor
+   - /opt/conda/lib/python3.13/site-packages/Cython/Includes
+  -> result: None
+
+[Cython search_include_directories]
+  qualified_name : qutip.core.cy.math.erf
+  suffix         : .pxd
+  search dirs:
+   - .
+   - /root/.qutip/qutip_coeffs_1.3
+   - /work
+   - /opt/conda/lib/python313.zip
+   - /opt/conda/lib/python3.13
+   - /opt/conda/lib/python3.13/lib-dynload
+   - /opt/conda/lib/python3.13/site-packages
+   - __editable__.qutip-5.3.0.dev0+8799939.finder.__path_hook__
+   - /opt/conda/lib/python3.13/site-packages/setuptools/_vendor
+   - /opt/conda/lib/python3.13/site-packages/Cython/Includes
+  -> result: None
+
+[Cython search_include_directories]
+  qualified_name : qutip.core.cy.math.erf
+  suffix         : .py
+  search dirs:
+   - .
+   - /root/.qutip/qutip_coeffs_1.3
+   - /work
+   - /opt/conda/lib/python313.zip
+   - /opt/conda/lib/python3.13
+   - /opt/conda/lib/python3.13/lib-dynload
+   - /opt/conda/lib/python3.13/site-packages
+   - __editable__.qutip-5.3.0.dev0+8799939.finder.__path_hook__
+   - /opt/conda/lib/python3.13/site-packages/setuptools/_vendor
+   - /opt/conda/lib/python3.13/site-packages/Cython/Includes
+  -> result: None
+
+[Cython search_include_directories]
+  qualified_name : qutip.core.cy.math.erf
+  suffix         : .pyx
+  search dirs:
+   - .
+   - /root/.qutip/qutip_coeffs_1.3
+   - /work
+   - /opt/conda/lib/python313.zip
+   - /opt/conda/lib/python3.13
+   - /opt/conda/lib/python3.13/lib-dynload
+   - /opt/conda/lib/python3.13/site-packages
+   - __editable__.qutip-5.3.0.dev0+8799939.finder.__path_hook__
+   - /opt/conda/lib/python3.13/site-packages/setuptools/_vendor
+   - /opt/conda/lib/python3.13/site-packages/Cython/Includes
+  -> result: None
+
+[Cython search_include_directories]
+  qualified_name : qutip.core.cy.math.erf
+  suffix         : .pxd
+  search dirs:
+   - .
+   - /root/.qutip/qutip_coeffs_1.3
+   - /work
+   - /opt/conda/lib/python313.zip
+   - /opt/conda/lib/python3.13
+   - /opt/conda/lib/python3.13/lib-dynload
+   - /opt/conda/lib/python3.13/site-packages
+   -
+Error compiling Cython file:
+------------------------------------------------------------
+...
+import numpy as np
+import scipy.special as spe
+from scipy.special cimport cython_special
+cimport cython
+from qutip.core.cy.coefficient cimport Coefficient
+from qutip.core.cy.math cimport erf, zerf
+^
+------------------------------------------------------------
+qtcoeff_94cec8c8a49e6e5bc60a673a4c5516.pyx:9:0: 'qutip/core/cy/math/erf.pxd' not found
+
+Error compiling Cython file:
+------------------------------------------------------------
+...
+import numpy as np
+import scipy.special as spe
+from scipy.special cimport cython_special
+cimport cython
+from qutip.core.cy.coefficient cimport Coefficient
+from qutip.core.cy.math cimport erf, zerf
+^
+------------------------------------------------------------
+qtcoeff_94cec8c8a49e6e5bc60a673a4c5516.pyx:9:0: 'qutip/core/cy/math/zerf.pxd' not found
+
+Error compiling Cython file:
+------------------------------------------------------------
+...
+import scipy.special as spe
+from scipy.special cimport cython_special
+cimport cython
+from qutip.core.cy.coefficient cimport Coefficient
+from qutip.core.cy.math cimport erf, zerf
+from qutip.core.cy.complex_math cimport *
+^
+------------------------------------------------------------
+qtcoeff_94cec8c8a49e6e5bc60a673a4c5516.pyx:10:0: 'qutip/core/cy/complex_math.pxd' not found
+
+Error compiling Cython file:
+------------------------------------------------------------
+...
+from scipy.special cimport cython_special
+cimport cython
+from qutip.core.cy.coefficient cimport Coefficient
+from qutip.core.cy.math cimport erf, zerf
+from qutip.core.cy.complex_math cimport *
+from qutip.core.data cimport Data
+^
+------------------------------------------------------------
+qtcoeff_94cec8c8a49e6e5bc60a673a4c5516.pyx:11:0: 'qutip/core/data.pxd' not found
+ __editable__.qutip-5.3.0.dev0+8799939.finder.__path_hook__
+   - /opt/conda/lib/python3.13/site-packages/setuptools/_vendor
+   - /opt/conda/lib/python3.13/site-packages/Cython/Includes
+  -> result: None
+
+[Cython search_include_directories]
+  qualified_name : qutip.core.cy.math.erf
+  suffix         : .py
+  search dirs:
+   - .
+   - /root/.qutip/qutip_coeffs_1.3
+   - /work
+   - /opt/conda/lib/python313.zip
+   - /opt/conda/lib/python3.13
+   - /opt/conda/lib/python3.13/lib-dynload
+   - /opt/conda/lib/python3.13/site-packages
+   - __editable__.qutip-5.3.0.dev0+8799939.finder.__path_hook__
+   - /opt/conda/lib/python3.13/site-packages/setuptools/_vendor
+   - /opt/conda/lib/python3.13/site-packages/Cython/Includes
+  -> result: None
+
+[Cython search_include_directories]
+  qualified_name : qutip.core.cy.math.zerf
+  suffix         : .pxd
+  search dirs:
+   - .
+   - /root/.qutip/qutip_coeffs_1.3
+   - /work
+   - /opt/conda/lib/python313.zip
+   - /opt/conda/lib/python3.13
+   - /opt/conda/lib/python3.13/lib-dynload
+   - /opt/conda/lib/python3.13/site-packages
+   - __editable__.qutip-5.3.0.dev0+8799939.finder.__path_hook__
+   - /opt/conda/lib/python3.13/site-packages/setuptools/_vendor
+   - /opt/conda/lib/python3.13/site-packages/Cython/Includes
+  -> result: None
+
+[Cython search_include_directories]
+  qualified_name : qutip.core.cy.math.zerf
+  suffix         : .py
+  search dirs:
+   - .
+   - /root/.qutip/qutip_coeffs_1.3
+   - /work
+   - /opt/conda/lib/python313.zip
+   - /opt/conda/lib/python3.13
+   - /opt/conda/lib/python3.13/lib-dynload
+   - /opt/conda/lib/python3.13/site-packages
+   - __editable__.qutip-5.3.0.dev0+8799939.finder.__path_hook__
+   - /opt/conda/lib/python3.13/site-packages/setuptools/_vendor
+   - /opt/conda/lib/python3.13/site-packages/Cython/Includes
+  -> result: None
+
+[Cython search_include_directories]
+  qualified_name : qutip.core.cy.math.zerf
+  suffix         : .pyx
+  search dirs:
+   - .
+   - /root/.qutip/qutip_coeffs_1.3
+   - /work
+   - /opt/conda/lib/python313.zip
+   - /opt/conda/lib/python3.13
+   - /opt/conda/lib/python3.13/lib-dynload
+   - /opt/conda/lib/python3.13/site-packages
+   - __editable__.qutip-5.3.0.dev0+8799939.finder.__path_hook__
+   - /opt/conda/lib/python3.13/site-packages/setuptools/_vendor
+   - /opt/conda/lib/python3.13/site-packages/Cython/Includes
+  -> result: None
+
+[Cython search_include_directories]
+  qualified_name : qutip.core.cy.math.zerf
+  suffix         : .pxd
+  search dirs:
+   - .
+   - /root/.qutip/qutip_coeffs_1.3
+   - /work
+   - /opt/conda/lib/python313.zip
+   - /opt/conda/lib/python3.13
+   - /opt/conda/lib/python3.13/lib-dynload
+   - /opt/conda/lib/python3.13/site-packages
+   - __editable__.qutip-5.3.0.dev0+8799939.finder.__path_hook__
+   - /opt/conda/lib/python3.13/site-packages/setuptools/_vendor
+   - /opt/conda/lib/python3.13/site-packages/Cython/Includes
+  -> result: None
+
+[Cython search_include_directories]
+  qualified_name : qutip.core.cy.math.zerf
+  suffix         : .py
+  search dirs:
+   - .
+   - /root/.qutip/qutip_coeffs_1.3
+   - /work
+   - /opt/conda/lib/python313.zip
+   - /opt/conda/lib/python3.13
+   - /opt/conda/lib/python3.13/lib-dynload
+   - /opt/conda/lib/python3.13/site-packages
+   - __editable__.qutip-5.3.0.dev0+8799939.finder.__path_hook__
+   - /opt/conda/lib/python3.13/site-packages/setuptools/_vendor
+   - /opt/conda/lib/python3.13/site-packages/Cython/Includes
+  -> result: None
+
+[Cython search_include_directories]
+  qualified_name : qutip.core.cy.complex_math
+  suffix         : .py
+  search dirs:
+   - .
+   - /root/.qutip/qutip_coeffs_1.3
+   - /work
+   - /opt/conda/lib/python313.zip
+   - /opt/conda/lib/python3.13
+   - /opt/conda/lib/python3.13/lib-dynload
+   - /opt/conda/lib/python3.13/site-packages
+   - __editable__.qutip-5.3.0.dev0+8799939.finder.__path_hook__
+   - /opt/conda/lib/python3.13/site-packages/setuptools/_vendor
+   - /opt/conda/lib/python3.13/site-packages/Cython/Includes
+  -> result: None
+
+[Cython search_include_directories]
+  qualified_name : qutip.core.cy.complex_math
+  suffix         : .pyx
+  search dirs:
+   - .
+   - /root/.qutip/qutip_coeffs_1.3
+   - /work
+   - /opt/conda/lib/python313.zip
+   - /opt/conda/lib/python3.13
+   - /opt/conda/lib/python3.13/lib-dynload
+   - /opt/conda/lib/python3.13/site-packages
+   - __editable__.qutip-5.3.0.dev0+8799939.finder.__path_hook__
+   - /opt/conda/lib/python3.13/site-packages/setuptools/_vendor
+   - /opt/conda/lib/python3.13/site-packages/Cython/Includes
+  -> result: None
+
+[Cython search_include_directories]
+  qualified_name : qutip.core.cy.complex_math
+  suffix         : .pxd
+  search dirs:
+   - .
+   - /root/.qutip/qutip_coeffs_1.3
+   - /work
+   - /opt/conda/lib/python313.zip
+   - /opt/conda/lib/python3.13
+   - /opt/conda/lib/python3.13/lib-dynload
+   - /opt/conda/lib/python3.13/site-packages
+   - __editable__.qutip-5.3.0.dev0+8799939.finder.__path_hook__
+   - /opt/conda/lib/python3.13/site-packages/setuptools/_vendor
+   - /opt/conda/lib/python3.13/site-packages/Cython/Includes
+  -> result: None
+
+[Cython search_include_directories]
+  qualified_name : qutip.core.cy.complex_math
+  suffix         : .py
+  search dirs:
+   - .
+   - /root/.qutip/qutip_coeffs_1.3
+   - /work
+   - /opt/conda/lib/python313.zip
+   - /opt/conda/lib/python3.13
+   - /opt/conda/lib/python3.13/lib-dynload
+   - /opt/conda/lib/python3.13/site-packages
+   - __editable__.qutip-5.3.0.dev0+8799939.finder.__path_hook__
+   - /opt/conda/lib/python3.13/site-packages/setuptools/_vendor
+   - /opt/conda/lib/python3.13/site-packages/Cython/Includes
+  -> result: None
+
+[Cython search_include_directories]
+  qualified_name : qutip.core.data
+  suffix         : .py
+  search dirs:
+   - .
+   - /root/.qutip/qutip_coeffs_1.3
+   - /work
+   - /opt/conda/lib/python313.zip
+   - /opt/conda/lib/python3.13
+   - /opt/conda/lib/python3.13/lib-dynload
+   - /opt/conda/lib/python3.13/site-packages
+   - __editable__.qutip-5.3.0.dev0+8799939.finder.__path_hook__
+   - /opt/conda/lib/python3.13/site-packages/setuptools/_vendor
+   - /opt/conda/lib/python3.13/site-packages/Cython/Includes
+  -> result: None
+
+[Cython search_include_directories]
+  qualified_name : qutip.core.data
+  suffix         : .pyx
+  search dirs:
+   - .
+   - /root/.qutip/qutip_coeffs_1.3
+   - /work
+   - /opt/conda/lib/python313.zip
+   - /opt/conda/lib/python3.13
+   - /opt/conda/lib/python3.13/lib-dynload
+   - /opt/conda/lib/python3.13/site-packages
+   - __editable__.qutip-5.3.0.dev0+8799939.finder.__path_hook__
+   - /opt/conda/lib/python3.13/site-packages/setuptools/_vendor
+   - /opt/conda/lib/python3.13/site-packages/Cython/Includes
+  -> result: None
+
+[Cython search_include_directories]
+  qualified_name : qutip.core.data
+  suffix         : .pxd
+  search dirs:
+   - .
+   - /root/.qutip/qutip_coeffs_1.3
+   - /work
+   - /opt/conda/lib/python313.zip
+   - /opt/conda/lib/python3.13
+   - /opt/conda/lib/python3.13/lib-dynload
+   - /opt/conda/lib/python3.13/site-packages
+   - __editable__.qutip-5.3.0.dev0+8799939.finder.__path_hook__
+   - /opt/conda/lib/python3.13/site-packages/setuptools/_vendor
+   - /opt/conda/lib/python3.13/site-packages/Cython/Includes
+  -> result: None
+
+[Cython search_include_directories]
+  qualified_name : qutip.core.data
+  suffix         : .py
+  search dirs:
+   - .
+   - /root/.qutip/qutip_coeffs_1.3
+   - /work
+   - /opt/conda/lib/python313.zip
+   - /opt/conda/lib/python3.13
+   - /opt/conda/lib/python3.13/lib-dynload
+   - /opt/conda/lib/python3.13/site-packages
+   - __editable__.qutip-5.3.0.dev0+8799939.finder.__path_hook__
+   - /opt/conda/lib/python3.13/site-packages/setuptools/_vendor
+   - /opt/conda/lib/python3.13/site-packages/Cython/Includes
+  -> result: None
+
+[Cython search_include_directories]
+  qualified_name : qutip.core.data.Data
+  suffix         : .pxd
+  search dirs:
+   - .
+   - /root/.qutip/qutip_coeffs_1.3
+   - /work
+   - /opt/conda/lib/python313.zip
+   - /opt/conda/lib/python3.13
+   - /opt/conda/lib/python3.13/lib-dynload
+   - /opt/conda/lib/python3.13/site-packages
+   - __editable__.qutip-5.3.0.dev0+8799939.finder.__path_hook__
+   - /opt/conda/lib/python3.13/site-packages/setuptools/_vendor
+   - /opt/conda/lib/python3.13/site-packages/Cython/Includes
+  -> result: None
+
+[Cython search_include_directories]
+  qualified_name :
+Error compiling Cython file:
+------------------------------------------------------------
+...
+from scipy.special cimport cython_special
+cimport cython
+from qutip.core.cy.coefficient cimport Coefficient
+from qutip.core.cy.math cimport erf, zerf
+from qutip.core.cy.complex_math cimport *
+from qutip.core.data cimport Data
+^
+------------------------------------------------------------
+qtcoeff_94cec8c8a49e6e5bc60a673a4c5516.pyx:11:0: 'qutip/core/data/Data.pxd' not found
+
+Error compiling Cython file:
+------------------------------------------------------------
+...
+
+
+parsed_code = "self._arg_cpl0 * sin ( t )"
+
+@cython.auto_pickle(True)
+cdef class StrCoefficient(Coefficient):
+                          ^
+------------------------------------------------------------
+qtcoeff_94cec8c8a49e6e5bc60a673a4c5516.pyx:18:26: First base of 'StrCoefficient' is not an extension type
+
+Error compiling Cython file:
+------------------------------------------------------------
+...
+        self.codeString = base
+        self.key0 = var[0]
+        self._arg_cpl0 = args[self.key0]
+
+
+    cpdef Coefficient copy(self):
+          ^
+------------------------------------------------------------
+qtcoeff_94cec8c8a49e6e5bc60a673a4c5516.pyx:34:10: 'Coefficient' is not a type identifier
+
+Error compiling Cython file:
+------------------------------------------------------------
+...
+        return self
+
+    @cython.initializedcheck(False)
+    @cython.cdivision(True)
+    cdef complex _call(self, double t) except *:
+        return self._arg_cpl0 * sin ( t )
+                                ^
+------------------------------------------------------------
+qtcoeff_94cec8c8a49e6e5bc60a673a4c5516.pyx:73:32: undeclared name not builtin: sin
+ qutip.core.data.Data
+  suffix         : .py
+  search dirs:
+   - .
+   - /root/.qutip/qutip_coeffs_1.3
+   - /work
+   - /opt/conda/lib/python313.zip
+   - /opt/conda/lib/python3.13
+   - /opt/conda/lib/python3.13/lib-dynload
+   - /opt/conda/lib/python3.13/site-packages
+   - __editable__.qutip-5.3.0.dev0+8799939.finder.__path_hook__
+   - /opt/conda/lib/python3.13/site-packages/setuptools/_vendor
+   - /opt/conda/lib/python3.13/site-packages/Cython/Includes
+  -> result: None
+
+[Cython search_include_directories]
+  qualified_name : qutip.core.data.Data
+  suffix         : .pyx
+  search dirs:
+   - .
+   - /root/.qutip/qutip_coeffs_1.3
+   - /work
+   - /opt/conda/lib/python313.zip
+   - /opt/conda/lib/python3.13
+   - /opt/conda/lib/python3.13/lib-dynload
+   - /opt/conda/lib/python3.13/site-packages
+   - __editable__.qutip-5.3.0.dev0+8799939.finder.__path_hook__
+   - /opt/conda/lib/python3.13/site-packages/setuptools/_vendor
+   - /opt/conda/lib/python3.13/site-packages/Cython/Includes
+  -> result: None
+
+[Cython search_include_directories]
+  qualified_name : qutip.core.data.Data
+  suffix         : .pxd
+  search dirs:
+   - .
+   - /root/.qutip/qutip_coeffs_1.3
+   - /work
+   - /opt/conda/lib/python313.zip
+   - /opt/conda/lib/python3.13
+   - /opt/conda/lib/python3.13/lib-dynload
+   - /opt/conda/lib/python3.13/site-packages
+   - __editable__.qutip-5.3.0.dev0+8799939.finder.__path_hook__
+   - /opt/conda/lib/python3.13/site-packages/setuptools/_vendor
+   - /opt/conda/lib/python3.13/site-packages/Cython/Includes
+  -> result: None
+
+[Cython search_include_directories]
+  qualified_name : qutip.core.data.Data
+  suffix         : .py
+  search dirs:
+   - .
+   - /root/.qutip/qutip_coeffs_1.3
+   - /work
+   - /opt/conda/lib/python313.zip
+   - /opt/conda/lib/python3.13
+   - /opt/conda/lib/python3.13/lib-dynload
+   - /opt/conda/lib/python3.13/site-packages
+   - __editable__.qutip-5.3.0.dev0+8799939.finder.__path_hook__
+   - /opt/conda/lib/python3.13/site-packages/setuptools/_vendor
+   - /opt/conda/lib/python3.13/site-packages/Cython/Includes
+  -> result: None
+Traceback (most recent call last):
+  File "/opt/qutip/qutip/core/coefficient.py", line 718, in compile_code
+    ext_modules = cythonize(
+        coeff_file, force=True, build_dir=c_opt['build_dir']
+    )
+  File "/opt/conda/lib/python3.13/site-packages/Cython/Build/Dependencies.py", line 1153, in cythonize
+    cythonize_one(*args)
+    ~~~~~~~~~~~~~^^^^^^^
+  File "/opt/conda/lib/python3.13/site-packages/Cython/Build/Dependencies.py", line 1297, in cythonize_one
+    raise CompileError(None, pyx_file)
+Cython.Compiler.Errors.CompileError: qtcoeff_94cec8c8a49e6e5bc60a673a4c5516.pyx
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/work/reproduce.py", line 33, in <module>
+    result = mesolve(H_td, psi0, tlist, [], [], args=args)
+  File "/opt/qutip/qutip/solver/mesolve.py", line 151, in mesolve
+    H = QobjEvo(H, args=args, tlist=tlist)
+  File "qutip/core/cy/qobjevo.pyx", line 223, in qutip.core.cy.qobjevo.QobjEvo.__init__
+    self._read_element(
+  File "qutip/core/cy/qobjevo.pyx", line 272, in qutip.core.cy.qobjevo.QobjEvo._read_element
+    coefficient(op[1], tlist=tlist, args=args, order=order,
+  File "/opt/qutip/qutip/core/coefficient.py", line 192, in coefficient
+    return coefficient_builders[type_](base, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "/opt/qutip/qutip/core/coefficient.py", line 444, in coeff_from_str
+    coeff = compile_code(code, file_name, parsed, compile_opt)
+  File "/opt/qutip/qutip/core/coefficient.py", line 726, in compile_code
+    raise Exception("Could not compile") from e
+Exception: Could not compile

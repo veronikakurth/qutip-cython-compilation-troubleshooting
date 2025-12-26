@@ -1,0 +1,32 @@
+name: qutip-repro
+channels:
+  - conda-forge
+dependencies:
+  # --- Core ---
+  - python=3.11
+  - pip
+  - setuptools
+  - wheel
+
+  # --- Toolchain (critical) ---
+  - c-compiler
+  - cxx-compiler
+  - make
+  - pkg-config
+
+  # --- Scientific stack ---
+  - numpy
+  - scipy
+
+  # --- Build tools ---
+  - cython
+  - meson
+  - ninja
+
+  # --- Runtime deps often needed for tests ---
+  - matplotlib
+
+  - pip:
+      # PEP 517 frontend
+      - build
+

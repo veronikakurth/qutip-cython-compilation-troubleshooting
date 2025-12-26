@@ -1,0 +1,89 @@
+services:
+  editable:
+    build:
+      context: .
+    container_name: qutip-editable-conda
+    working_dir: /work
+    volumes: 
+      - ./reproduce.py:/work/reproduce.py:ro
+      - ./coefficient.py:/opt/qutip/qutip/core/coefficient.py
+      - ./runtime_logs_edit.log:/work/runtime_logs_edit.log
+    command:
+      - conda
+      - run
+      - --no-capture-output
+      - -n
+      - qutip-repro
+      - bash
+      - -lc
+      - |
+        cd /opt/qutip && \
+        pip install -e .[runtime_compilation] -v && \
+        python /work/reproduce.py 2>&1 | tee /work/runtime_logs_edit.log
+  
+  editable-fix:
+    build:
+      context: .
+    container_name: qutip-editable-conda-fix
+    working_dir: /work
+    volumes: 
+      - ./reproduce.py:/work/reproduce.py:ro
+      - ./coefficient_fix.py:/opt/qutip/qutip/core/coefficient.py
+      - ./runtime_logs_edit_fix.log:/work/runtime_logs_edit_fix.log
+    command:
+      - conda
+      - run
+      - --no-capture-output
+      - -n
+      - qutip-repro
+      - bash
+      - -lc
+      - |
+        cd /opt/qutip && \
+        pip install -e .[runtime_compilation] -v && \
+        python /work/reproduce.py 2>&1 | tee /work/runtime_logs_edit_fix.log
+  
+  wheel:
+    build:
+      context: .
+    container_name: qutip-wheel-conda
+    working_dir: /work
+    volumes: 
+      - ./reproduce.py:/work/reproduce.py:ro
+      - ./coefficient.py:/opt/qutip/qutip/core/coefficient.py
+      - ./runtime_logs_wheel.log:/work/runtime_logs_wheel.log
+    command:
+      - conda
+      - run
+      - --no-capture-output
+      - -n
+      - qutip-repro
+      - bash
+      - -lc
+      - |
+        cd /opt/qutip && \
+        pip install .[runtime_compilation] -v &&
+        python /work/reproduce.py 2>&1 | tee /work/runtime_logs_wheel.log
+  
+  wheel-fix:
+    build:
+      context: .
+    container_name: qutip-wheel-conda-fix
+    working_dir: /work
+    volumes: 
+      - ./reproduce.py:/work/reproduce.py:ro
+      - ./coefficient_fix.py:/opt/qutip/qutip/core/coefficient.py
+      - ./runtime_logs_wheel_fix.log:/work/runtime_logs_wheel_fix.log
+    command:
+      - conda
+      - run
+      - --no-capture-output
+      - -n
+      - qutip-repro
+      - bash
+      - -lc
+      - |
+        cd /opt/qutip && \
+        pip install .[runtime_compilation] -v && \
+        python /work/reproduce.py 2>&1 | tee /work/runtime_logs_wheel_fix.log
+
